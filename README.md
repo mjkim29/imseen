@@ -59,4 +59,4 @@ samplesize_med: median of the sample sizes of all simulations
 samplesize_25q: IQR (25th percentile) of the sample sizes of all simulations
 samplesize_75q: IQR (75h percentile) of the sample sizes of all simulations
 samplesize_min: minimum value of the sample sizes of all simulations
-samplesize_max: maximum value of the sample sizes of all simulations
+samplesize_max: maximum value of the sample sizes of all simulations 
